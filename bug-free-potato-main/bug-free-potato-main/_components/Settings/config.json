@@ -1,0 +1,9 @@
+{
+    "token": "YOUR_TOKEN_HERE",
+    "prefix": "YOUR_PREFIX_HERE",
+    "botname": "YOUR_BOTNAME_HERE",
+    "owners": [
+        "YOUR_ID_HERE",
+        "ANOTHER_ID_HERE"
+    ]
+}
